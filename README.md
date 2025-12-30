@@ -1,6 +1,10 @@
 # 📌 O projekcie (english below)
 To repozytorium zawiera kod źródłowy aplikacji **mObywatel**, który został udostępniony przez Ministerstwo Cyfryzacji (COI) 29 grudnia 2025 roku. Więcej infromacji: [gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela](https://www.gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela)
 
+**Wkrótce dam link do repozytorium z kodem na iOS.**
+
+
+
 Ze względu na to, że oficjalna publikacja została dokonana w formie utrudniającej analizę (brak możliwości kopiowania, konieczność logowania, interfejs HTML), celem tego projektu jest:
 
 - **zwiększenie transparentności** poprzez umożliwienie łatwego przeglądania kodu przez ekspertów ds. bezpieczeństwa
@@ -33,6 +37,8 @@ OPROGRAMOWANIE JEST DOSTARCZANE „TAK JAK JEST”, BEZ JAKIEJKOLWIEK GWARANCJI,
 
 # 📌 About the Project
 This repository contains the source code of the **mObywatel** application, which was released by COI on December 29, 2025. Learn more: [gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela](https://www.gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela)
+
+**The iOS version is coming soon.**
 
 Since the official publication was made in a format that hinders analysis (no copy-paste, login requirements, HTML...), the purpose of this project is to:
 
